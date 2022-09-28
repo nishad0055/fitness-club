@@ -1,7 +1,9 @@
 import React, { useEffect, useState } from 'react';
 import SingleItem from '../SingleItem/SingleItem';
 import logo from '../../Images/logo.png'
-import headshot from '../../Images/headshot.png'
+
+import './Items.css'
+import Sidebar from '../Sidebar/Sidebar';
 
 const Items = () => {
     const [items , setItems] = useState([])
@@ -29,30 +31,8 @@ const Items = () => {
             </div>
              
             
-             <div className="bg-slate-900 lg:w-[20%]">
-               <div className='flex items-center'>
-                  <img className='w-20 h-20 mr-2' src={headshot} alt="" />
-                  <div className='text-white'>
-                    <h1>Nishad Ahmed</h1>
-                    <p><small>Sherpur</small></p>
-                  </div>
-               </div>
-               <div className='flex justify-around bg-slate-200'>
-                  <div>
-                  <p>75kg</p>
-                  <p>Weight</p>
-                  </div>
-                  <div>
-                  <p>75kg</p>
-                  <p>Weight</p>
-                  </div>
-                  <div>
-                  <p>75kg</p>
-                  <p>Weight</p>
-                  </div>
-                  
-               </div>
-            
+             <div className="bg-slate-900 lg:w-[20%] p-3">
+              <Sidebar></Sidebar>
              </div>
             
         </div>
