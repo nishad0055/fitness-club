@@ -3,46 +3,74 @@
       "id": "633466a8e4ac909becaa1ba8",
       "picture": "https://i.ibb.co/zhHYqXR/Dumbbell-Bench-Press.jpg",
       "name": "Dumbbell Beanch Press",
-      "text": "The beauty of fitness programs is that very few are identical. Depending on a person’s goals"
+      "text": "The beauty of fitness programs is that very few are identical. Depending on a person’s goals",
+      "age": "20-30",
+      "time": "30s"
+
     },
     {
       "id": "633466a8ff989e309bfe57de",
-      "picture": "http://placehold.it/32x32",
-      "name": "Lelia Barry"
+      "picture": "https://i.ibb.co/y4RjGKK/Chest-Cable-Crossover.jpg",
+      "name": "Chest Cable Crossover",
+      "text": "The beauty of fitness programs is that very few are identical. Depending on a person’s goals",
+      "age": "20-30",
+      "time": "30s"
     },
     {
       "id": "633466a86a70b1ac3f9a8213",
-      "picture": "http://placehold.it/32x32",
-      "name": "Marion Simon"
+      "picture": "https://i.ibb.co/yn1JghW/CrossFit.jpg",
+      "name": "Cross Fit",
+      "text": "The beauty of fitness programs is that very few are identical. Depending on a person’s goals",
+      "age": "20-30s",
+      "time": "30s"
     },
     {
       "id": "633466a873b0f8c99f46b3ad",
-      "picture": "http://placehold.it/32x32",
-      "name": "Alejandra Campos"
+      "picture": "https://i.ibb.co/nPS7CZ7/deadlift.jpg",
+      "name": "Back Deadlift",
+      "text": "The beauty of fitness programs is that very few are identical. Depending on a person’s goals",
+      "age": "20-30s",
+      "time": "30s"
+
     },
     {
       "id": "633466a8cebbf4dd25f04062",
-      "picture": "http://placehold.it/32x32",
-      "name": "Dudley Hammond"
+      "picture": "https://i.ibb.co/J27yd91/Pullups.jpg",
+      "name": "Pullups",
+      "text": "The beauty of fitness programs is that very few are identical. Depending on a person’s goals",
+      "age": "20-30s",
+      "time": "30s"
     },
     {
       "id": "633466a8ae4fcd1c4d15bb89",
-      "picture": "http://placehold.it/32x32",
-      "name": "Finch Nicholson"
+      "picture": "https://i.ibb.co/k9XqL8C/Skipping.jpg",
+      "name": "Skipping",
+      "text": "The beauty of fitness programs is that very few are identical. Depending on a person’s goals",
+      "age": "20-30s",
+      "time": "30s"
     },
     {
       "id": "633466a8c5bbc9e348ec2265",
-      "picture": "http://placehold.it/32x32",
-      "name": "Hall Foley"
+      "picture": "https://i.ibb.co/m6CPsBb/PushUP.jpg",
+      "name": "PusshUp",
+      "text": "The beauty of fitness programs is that very few are identical. Depending on a person’s goals",
+      "age": "20-30s",
+      "time": "30s"
     },
     {
       "id": "633466a8a97bbd5b7ba2b730",
-      "picture": "http://placehold.it/32x32",
-      "name": "Gaines Mills"
+      "picture": "https://i.ibb.co/8B5j4X3/Spider-man-pushup.jpg",
+      "name": "Spiderman PushUP",
+      "text": "The beauty of fitness programs is that very few are identical. Depending on a person’s goals",
+      "age": "20-30s",
+      "time": "30s"
     },
     {
       "id": "633466a8ec2f51ef40ddced5",
-      "picture": "http://placehold.it/32x32",
-      "name": "Kemp Morrow"
+      "picture": "https://i.ibb.co/xhz6d5H/t-bar-row.png",
+      "name": "T-bar Row",
+      "text": "The beauty of fitness programs is that very few are identical. Depending on a person’s goals",
+      "age": "20-30s",
+      "time": "30s"
     }
   ]
