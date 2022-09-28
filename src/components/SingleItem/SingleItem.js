@@ -15,6 +15,9 @@ const SingleItem = (props) => {
                     <div className="badge badge-outline">For age: {age}</div> 
                     <div className="badge badge-outline">Time: {time}</div>
                     </div>
+                    <button className="btn btn-active btn-secondary">Add to List</button>
+
+
                 </div>
                 </div>
 
