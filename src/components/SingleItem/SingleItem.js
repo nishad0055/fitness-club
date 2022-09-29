@@ -1,8 +1,10 @@
-import React from 'react';
+import React, { useState } from 'react';
 
 const SingleItem = (props) => {
     console.log(props)
     const{age, name, picture, text, time} = props.item
+    const [buttonText, setButton] = useState('Add To List')
+
     return (
         <div>
             
@@ -15,7 +17,7 @@ const SingleItem = (props) => {
                     <div className="badge badge-outline">For age: {age}</div> 
                     <div className="badge badge-outline">Time: {time}</div>
                     </div>
-                    <button className="btn btn-active btn-secondary">Add to List</button>
+                    <button onClick={()=> setButton ("Added")} className="btn btn-active btn-secondary">{buttonText}</button>
 
 
                 </div>
